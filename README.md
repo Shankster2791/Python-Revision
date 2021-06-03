@@ -1,2 +1,2 @@
 # Python-Revision
-Practiced Basics of Python. 
+Practised Basics of Python. 
